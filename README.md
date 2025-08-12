@@ -1,9 +1,8 @@
 # EvaNRT-BC
-Code of "EvaNRT-BC" that aims to evaluate hourly EC concentrations (total, residential and traffic contribution) from CAMS analyses using AE33 observation data in near real time.
 
 ------------------
 Program objective: 
-- Demonstrator "EvaNRT-BC" that aims to evaluate hourly EC concentrations (total, residential and traffic contribution) from CAMS analyses using AE33 observation data in near real time for a chosen day. In addition, the daily evaluation is transposed into the Model Quality Indicator framework proposed in the FAIRMODE Guidance Document on Modelling Quality Objectives and Benchmarking.
+- Code of "EvaNRT-BC" that aims to evaluate hourly EC concentrations (total, residential and traffic contribution) from CAMS analyses using AE33 observation data in near real time for a chosen day. In addition, the daily evaluation is transposed into the Model Quality Indicator framework proposed in the FAIRMODE Guidance Document on Modelling Quality Objectives and Benchmarking.
 ------------------
 
 ------------------
@@ -13,6 +12,10 @@ Program structure:
 - The "inputs" folder should contain the prepared data (after script 3), "material" the station coordinates, "scripts" all the above-mentioned scripts and "outputs" the produced figures.
 ------------------
 
+------------------
+How to cite :
+Guion, A., Gherras, M., Favez, O., & Colette, A. (2025). Demonstrator "EvaNRT-BC" for an NRT evaluation of the modeled Elemental / Black Carbon. Zenodo. https://doi.org/10.5281/zenodo.16812466
+------------------
 ------------------
 Authors and contact: 
 - Antoine Guion (antoine.guion@ineris.fr), Mohamed Gherras, Olivier Favez, Augustin Colette 
@@ -29,6 +32,6 @@ Related project:
 ------------------
 
 ------------------
-Documentation: 
+Extra documentation: 
 - https://riurbans.eu/wp-content/uploads/2024/04/RI-URBANS_D19_D3_4.pdf (Deliverable D19 (D3.4) High resolution mapping over European urban areas) 
 ------------------
