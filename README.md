@@ -13,10 +13,6 @@ Program structure:
 ------------------
 
 ------------------
-How to cite :
-Guion, A., Gherras, M., Favez, O., & Colette, A. (2025). Demonstrator "EvaNRT-BC" for an NRT evaluation of the modeled Elemental / Black Carbon. Zenodo. https://doi.org/10.5281/zenodo.16812466
-------------------
-------------------
 Authors and contact: 
 - Antoine Guion (antoine.guion@ineris.fr), Mohamed Gherras, Olivier Favez, Augustin Colette 
 ------------------
@@ -34,4 +30,9 @@ Related project:
 ------------------
 Extra documentation: 
 - https://riurbans.eu/wp-content/uploads/2024/04/RI-URBANS_D19_D3_4.pdf (Deliverable D19 (D3.4) High resolution mapping over European urban areas) 
+------------------
+
+------------------
+How to cite :
+Guion, A., Gherras, M., Favez, O., & Colette, A. (2025). Demonstrator "EvaNRT-BC" for an NRT evaluation of the modeled Elemental / Black Carbon. Zenodo. https://doi.org/10.5281/zenodo.16812466
 ------------------
